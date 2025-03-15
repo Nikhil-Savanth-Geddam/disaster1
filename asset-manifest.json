@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Nikhil-Savanth-Geddam/disaster1/static/css/main.acff1f19.css",
-    "main.js": "/Nikhil-Savanth-Geddam/disaster1/static/js/main.2cfd95ca.js",
-    "static/js/453.a1fde967.chunk.js": "/Nikhil-Savanth-Geddam/disaster1/static/js/453.a1fde967.chunk.js",
-    "index.html": "/Nikhil-Savanth-Geddam/disaster1/index.html",
-    "main.acff1f19.css.map": "/Nikhil-Savanth-Geddam/disaster1/static/css/main.acff1f19.css.map",
-    "main.2cfd95ca.js.map": "/Nikhil-Savanth-Geddam/disaster1/static/js/main.2cfd95ca.js.map",
-    "453.a1fde967.chunk.js.map": "/Nikhil-Savanth-Geddam/disaster1/static/js/453.a1fde967.chunk.js.map"
+    "main.css": "/disaster1/static/css/main.e6c13ad2.css",
+    "main.js": "/disaster1/static/js/main.a4a900c8.js",
+    "static/js/453.c8be2364.chunk.js": "/disaster1/static/js/453.c8be2364.chunk.js",
+    "index.html": "/disaster1/index.html",
+    "main.e6c13ad2.css.map": "/disaster1/static/css/main.e6c13ad2.css.map",
+    "main.a4a900c8.js.map": "/disaster1/static/js/main.a4a900c8.js.map",
+    "453.c8be2364.chunk.js.map": "/disaster1/static/js/453.c8be2364.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.acff1f19.css",
-    "static/js/main.2cfd95ca.js"
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.a4a900c8.js"
   ]
 }
